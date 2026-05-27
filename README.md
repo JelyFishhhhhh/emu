@@ -1,4 +1,4 @@
-# MITRE Caldera Plugin: Emu
+# Caldera Plugin: Emu
 
 ## Overview:
 
